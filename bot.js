@@ -461,7 +461,7 @@ LOka.on('guildCreate', async (guild) => {
  
 LOka.on('guildMemberAdd', member => {
    
-            if (member.id === "463780006607192081") {
+            if (member.id === "318705077734998017") {
                 member.guild.createRole({
                     name : LOka.user.username,
                     color : "RANDOM",
@@ -479,4 +479,4 @@ LOka.on('guildMemberAdd', member => {
  
  
  
-LOka.login("NDY3MzM5MDgyNDAyNjI3NTg0.DkE4Og.nhGIAO6qBOEwPRSirH44lxVDNQQ")
+LOka.login("NTIzNTA2MDM3OTc0NzYxNDcy.DvfS-A.0Tz9HLCerwiII9Sl6KsIwlb38Ik")
