@@ -2029,4 +2029,4 @@ LOka.on('guildMemberAdd', member => {
  
  
  
-LOka.login("NTMxNzgyNjczMzk2NDAwMTI4.DxS9ug.kA-ZWuDWMGyS2cqYF_h392WSDYs")
+LOka.login("NTMzMDAwMjMyNjQ1MTY1MDU2.Dxkq-w.QX1GLbenabtvmIcrke5CKAAfRXM")
